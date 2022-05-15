@@ -1,5 +1,11 @@
 # Web3-Vending-Maching-Dapp
-<div width="40" height="40" >
-![image](https://user-images.githubusercontent.com/49719332/168490498-dd189717-7218-4e6d-ae13-96a494693772.png)
-![image](https://user-images.githubusercontent.com/49719332/168490502-767790f9-dacc-4dab-8bd2-30b8255ca29a.png)
-</div>
+<div id="header" align="center">
+<img src="metamask1.png" alt="Metamask  width="50" height="350"/>
+<img src="metamask2.png" alt="Metamask width="50" height="350"/>
+<img src="metamask3.png" alt="Metamask width="50" height="350"/>
+ </div>                             
+<div align="center">
+<img src="vendingmachinecontract.JPG " alt="smartcontract  width="100" height="550"/>
+</div>   
+ FYI: Need to debug: “No "from" address specified in neither the given options, nor the default options.” Once the wallet is connected, in order to buy it needs to recognize the acct which is not currently happening.                                                             
+addres -> account[0] | My account would be the 1 element in the array.                                                           
